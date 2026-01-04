@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18148389.svg)](https://doi.org/10.5281/zenodo.18148389)
+
 # DLForecastVolatility — Volatility Forecasting in Crypto: HAR/HAR-X vs GARCH vs LSTM
 
 This repository contains code and materials for the working paper:
